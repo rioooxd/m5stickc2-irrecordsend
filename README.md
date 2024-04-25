@@ -6,5 +6,5 @@
 
 ## Pinout 
 
-![](/assets/images/pinout.jpg)
+![](https://github.com/rioooxd/m5stickc2-irrecordsend/blob/main/images/pinout.jpeg?raw=true)
 
